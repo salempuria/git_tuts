@@ -1,0 +1,13 @@
+#main {
+	width: 960px;
+	height: 250px;
+  background-color: red;
+}
+
+#main div {
+  width: 500px;
+  height: 50px;
+  display: inline-block;
+  align-items: top;
+  }
+  
